@@ -1,26 +1,43 @@
+.home-heading {
+	color: $brand-primary;
+	margin-top: 25px;
+}
+
+
+.home {
+	color: #fff;
+	margin-top: 25px;
+}
+
+.home h2 {
+	margin-top: 0;
+	padding-top: 0;
+}
+
 
 #journal {
-	border-top: solid 1px #29769e;
-	margin-bottom: 20px;
+	color: #fff;
 }
 
 #about {
-	border-top: solid 1px #29769e;
-	margin-bottom: 20px;
+    color: #fff;
 }
 
 #work {
-	border-top: solid 1px #29769e;
+
 	margin-bottom: 20px;
 }
 
 #contact {
-	background-color: #c2bbb3;
-	margin-bottom: 20px;
+	color: #fff;
 }
 
 #contact h3 {
 	margin-top: 0px;
+}
+
+.social {
+	margin-top: 25px;
 }
 
 .social a {
